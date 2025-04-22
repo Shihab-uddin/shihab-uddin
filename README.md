@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Md. Shihab Uddin Sourav
+I'm a Software Engineer with a strong focus on Frontend Development.
+
+Key Skills:
+JavaScript | React | Tailwind CSS | Bootstrap | TypeScript
+
+Also familiar with:
+Node.js | Express.js | PHP | Laravel | Python
